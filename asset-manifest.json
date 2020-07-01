@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gfl-echelon-builder/static/css/main.3cd1d4d3.chunk.css",
+    "main.js": "/gfl-echelon-builder/static/js/main.f971825e.chunk.js",
+    "main.js.map": "/gfl-echelon-builder/static/js/main.f971825e.chunk.js.map",
+    "runtime-main.js": "/gfl-echelon-builder/static/js/runtime-main.2e0dd3a7.js",
+    "runtime-main.js.map": "/gfl-echelon-builder/static/js/runtime-main.2e0dd3a7.js.map",
+    "static/css/2.3cb76441.chunk.css": "/gfl-echelon-builder/static/css/2.3cb76441.chunk.css",
+    "static/js/2.4ec66534.chunk.js": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js",
+    "static/js/2.4ec66534.chunk.js.map": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js.map",
+    "index.html": "/gfl-echelon-builder/index.html",
+    "precache-manifest.e5722c90051b9b4285fe7062564c9768.js": "/gfl-echelon-builder/precache-manifest.e5722c90051b9b4285fe7062564c9768.js",
+    "service-worker.js": "/gfl-echelon-builder/service-worker.js",
+    "static/css/2.3cb76441.chunk.css.map": "/gfl-echelon-builder/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.3cd1d4d3.chunk.css.map": "/gfl-echelon-builder/static/css/main.3cd1d4d3.chunk.css.map",
+    "static/js/2.4ec66534.chunk.js.LICENSE.txt": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gfl-echelon-builder/static/media/background.ad88ecc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0dd3a7.js",
+    "static/css/2.3cb76441.chunk.css",
+    "static/js/2.4ec66534.chunk.js",
+    "static/css/main.3cd1d4d3.chunk.css",
+    "static/js/main.f971825e.chunk.js"
+  ]
+}
