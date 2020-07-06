@@ -1,0 +1,96 @@
+.box {
+  top: 30px;
+  margin-left: 15px;
+  padding: 0;
+  position: relative;
+  width: 250px;
+  perspective: 1000px;
+  transition: all 0.5s ease-in-out 0.5s;
+}
+
+.box:hover {
+  box-shadow: 1px 2px 10px 5px solid #000;
+}
+
+.box .box-img {
+  transform: rotateY(0);
+  transition: all 0.5s ease-in-out 0;
+  /* background-image: url("https://en.gfwiki.com/images/c/cb/M4A1_S.png"); */
+  border-radius: 10px;
+}
+
+.box:hover .box-img {
+  transform: rotateY(-90deg);
+}
+.box .box-img .img-frame {
+  width: 250px;
+  height: 380px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+.box .content {
+  color: white;
+  border: 1px solid white;
+  background: rgb(64, 64, 64);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding: 35px 20px 90px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 10px;
+  transform: rotateY(90deg);
+  transition: all 0.5s ease-in-out 0s;
+}
+
+.box:hover .content {
+  transform: rotateY(0);
+}
+
+.box .content .content-table {
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  padding: 20px 0;
+  margin: 0 25px;
+}
+
+.box .content .content-table div {
+  margin: 3px 0;
+}
+.box .button {
+  background: none;
+  top: 63px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding: 260px 50px;
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  transform: rotateY(90deg);
+  transition: all 0.5s ease-in-out 0s;
+}
+
+.box:hover .button {
+  transform: rotateY(0);
+}
+.box .button li {
+  list-style: none;
+  padding: 15px 0;
+}
+.box .button a {
+  color: white;
+  text-decoration: none;
+  border: 1px solid transparent;
+  padding: 5px 10px;
+  background: #f0b001;
+  border-radius: 10px;
+}
+
+.box .button a:hover {
+  background: #ffcc01;
+}

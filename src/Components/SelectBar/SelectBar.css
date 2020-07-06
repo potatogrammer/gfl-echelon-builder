@@ -1,0 +1,21 @@
+.select-bar {
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.select-bar-category {
+  color: #000 !important;
+  width: 30% !important;
+  background-color: #ffcc01 !important;
+}
+
+.select-bar-search {
+  width: 70% !important;
+  position: absolute;
+}
+
+.select-bar-search > .ant-select-arrow {
+  display: none;
+}
