@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gfl-echelon-builder/precache-manifest.a168d654189c08d5ae243cca3beae866.js"
+  "/gfl-echelon-builder/precache-manifest.42ef697aa6dc7d81ae7a266d4540c7ed.js"
 );
 
 self.addEventListener('message', (event) => {
