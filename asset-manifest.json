@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/gfl-echelon-builder/static/css/main.3cd1d4d3.chunk.css",
-    "main.js": "/gfl-echelon-builder/static/js/main.f971825e.chunk.js",
-    "main.js.map": "/gfl-echelon-builder/static/js/main.f971825e.chunk.js.map",
+    "main.css": "/gfl-echelon-builder/static/css/main.a6e36c9c.chunk.css",
+    "main.js": "/gfl-echelon-builder/static/js/main.5213c4d5.chunk.js",
+    "main.js.map": "/gfl-echelon-builder/static/js/main.5213c4d5.chunk.js.map",
     "runtime-main.js": "/gfl-echelon-builder/static/js/runtime-main.2e0dd3a7.js",
     "runtime-main.js.map": "/gfl-echelon-builder/static/js/runtime-main.2e0dd3a7.js.map",
     "static/css/2.3cb76441.chunk.css": "/gfl-echelon-builder/static/css/2.3cb76441.chunk.css",
-    "static/js/2.4ec66534.chunk.js": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js",
-    "static/js/2.4ec66534.chunk.js.map": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js.map",
+    "static/js/2.90825932.chunk.js": "/gfl-echelon-builder/static/js/2.90825932.chunk.js",
+    "static/js/2.90825932.chunk.js.map": "/gfl-echelon-builder/static/js/2.90825932.chunk.js.map",
     "index.html": "/gfl-echelon-builder/index.html",
-    "precache-manifest.e5722c90051b9b4285fe7062564c9768.js": "/gfl-echelon-builder/precache-manifest.e5722c90051b9b4285fe7062564c9768.js",
+    "precache-manifest.beeeb29bdd960b24ada797da6f6030e9.js": "/gfl-echelon-builder/precache-manifest.beeeb29bdd960b24ada797da6f6030e9.js",
     "service-worker.js": "/gfl-echelon-builder/service-worker.js",
     "static/css/2.3cb76441.chunk.css.map": "/gfl-echelon-builder/static/css/2.3cb76441.chunk.css.map",
-    "static/css/main.3cd1d4d3.chunk.css.map": "/gfl-echelon-builder/static/css/main.3cd1d4d3.chunk.css.map",
-    "static/js/2.4ec66534.chunk.js.LICENSE.txt": "/gfl-echelon-builder/static/js/2.4ec66534.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/gfl-echelon-builder/static/media/background.ad88ecc3.jpg"
+    "static/css/main.a6e36c9c.chunk.css.map": "/gfl-echelon-builder/static/css/main.a6e36c9c.chunk.css.map",
+    "static/js/2.90825932.chunk.js.LICENSE.txt": "/gfl-echelon-builder/static/js/2.90825932.chunk.js.LICENSE.txt",
+    "static/media/AR15.gif": "/gfl-echelon-builder/static/media/AR15.1e59893e.gif",
+    "static/media/M4A1.gif": "/gfl-echelon-builder/static/media/M4A1.85844a24.gif",
+    "static/media/M4_SOPMOD_II.gif": "/gfl-echelon-builder/static/media/M4_SOPMOD_II.3d193490.gif",
+    "static/media/M4_SOPMOD_II.png": "/gfl-echelon-builder/static/media/M4_SOPMOD_II.ee9c2d07.png",
+    "static/media/boardTile.png": "/gfl-echelon-builder/static/media/boardTile.6ae08f03.png",
+    "static/media/chibi_screenshot (2).png": "/gfl-echelon-builder/static/media/chibi_screenshot (2).e8df047a.png",
+    "static/media/chibi_screenshot.png": "/gfl-echelon-builder/static/media/chibi_screenshot.f62e5b22.png",
+    "static/media/imageFrame.png": "/gfl-echelon-builder/static/media/imageFrame.72e578a9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2e0dd3a7.js",
     "static/css/2.3cb76441.chunk.css",
-    "static/js/2.4ec66534.chunk.js",
-    "static/css/main.3cd1d4d3.chunk.css",
-    "static/js/main.f971825e.chunk.js"
+    "static/js/2.90825932.chunk.js",
+    "static/css/main.a6e36c9c.chunk.css",
+    "static/js/main.5213c4d5.chunk.js"
   ]
 }
